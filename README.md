@@ -3,28 +3,88 @@
 
 [![DOI](https://zenodo.org/badge/404911045.svg)](https://zenodo.org/badge/latestdoi/404911045)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![GitHub issues](https://img.shields.io/github/issues-raw/ivbhatt/Simplii)
-![Github closes issues](https://img.shields.io/github/issues-closed-raw/ivbhatt/Simplii)
-![Github pull requests](https://img.shields.io/github/issues-pr/ivbhatt/Simplii)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Build Status](https://app.travis-ci.com/UnnatiPrema/Simplii.svg?branch=main)](https://app.travis-ci.com/UnnatiPrema/Simplii)
+[![codecov](https://codecov.io/gh/deekay2310/Simplii/branch/main/graph/badge.svg?token=9ZXVRIPHLO)](https://codecov.io/gh/deekay2310/Simplii)
+![github workflow](https://github.com/deekay2310/Simplii/actions/workflows/unit_test.yml/badge.svg)
+![github workflow](https://github.com/deekay2310/Simplii/actions/workflows/style_checker.yml/badge.svg)
+![github workflow](https://github.com/deekay2310/Simplii/actions/workflows/syntax_checker.yml/badge.svg)
+![github workflow](https://github.com/deekay2310/Simplii/actions/workflows/close_as_a_feature.yml/badge.svg)
+<!--Badges-->
+<a href="https://github.com/deekay2310/Simplii/fork" target="blank">
+<img src="https://img.shields.io/github/forks/deekay2310/Simplii?style=flat-square" alt="Simplii forks"/>
+</a>
+<a href="https://github.com/deekay2310/Simplii/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/deekay2310/Simplii?style=flat-square" alt="Simplii stars"/>
+</a>
+<a href="https://github.com/deekay2310/Simplii/issues" target="blank">
+<img src="https://img.shields.io/github/issues/deekay2310/Simplii?style=flat-square" alt="Simplii issues"/>
+</a>
+<a href="https://github.com/deekay2310/Simplii/issues" target="blank">
+<img src="https://img.shields.io/github/issues-closed/deekay2310/Simplii" alt="Simplii issues closed"/>
+</a>
+<a href="https://github.com/deekay2310/Simplii/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/deekay2310/Simplii?style=flat-square" alt="cheapBuy pull-requests"/>
+</a>
+<a href="https://github.com/deekay2310/Simplii/graphs/contributors" alt="Contributors">
+<img src="https://img.shields.io/github/contributors/deekay2310/Simplii" /></a>
+
+<a href="https://github.com/deekay2310/Simplii/milestones" alt="milestones">
+<img src="https://img.shields.io/github/milestones/all/deekay2310/Simplii" /></a> 
+
+<a href="https://github.com/deekay2310/Simplii/graphs/commit-activity" alt="commit activity">
+<img src="https://img.shields.io/github/commit-activity/w/deekay2310/Simplii" /></a> 
+
+<a href="https://github.com/deekay2310/Simplii/discussions" alt="discussion">
+<img src="https://img.shields.io/github/discussions/deekay2310/Simplii" /></a> 
+
+<a href="https://img.shields.io/github/repo-size/deekay2310/Simplii" alt="repo size">
+<img src="https://img.shields.io/github/repo-size/deekay2310/Simplii" /></a>
+
+<a href="https://img.shields.io/tokei/lines/github/deekay2310/Simplii" alt="total lines">
+<img src="https://img.shields.io/tokei/lines/github/deekay2310/Simplii" /></a>
+<br>
+
+<p align="center">
+    <a href="https://github.com/deekay2310/Simplii/issues/new/choose">Report Bug</a>
+    /
+    <a href="https://github.com/deekay2310/Simplii/issues/new/choose">Request Feature</a>
+</p>
+
 ## Why schedule tasks on this app?
 
 Do you feel that your basic task scheduling apps should also track your mood and suggest a task accordingly? We hear it. We are trying to build a tool that will enable fast execution of our tasks under any mood. `Simplii` parameterizes emotions, deadlines, task difficulty and moods to suggest a task to be done keeping you at your productive best.
+
+<p align="center">
+<a><img height=200 width=200 
+src="https://user-images.githubusercontent.com/89432698/140456823-42f69435-d792-4687-bb20-aaa551016df1.png"></a>
+<a><img height=200 width=200 
+src="https://user-images.githubusercontent.com/89432698/140457341-b37dcb30-7127-440e-80ba-e5a46826532c.jpeg"></a></p>
+
 
 ## Visual Walkthrough:
 
 https://user-images.githubusercontent.com/17769434/135383467-e197d4ca-74f8-4737-a979-4390026cb71d.mp4
 
+
+https://user-images.githubusercontent.com/89432698/140456563-6b1126c5-7830-4fc5-bcac-a9463b96c135.mp4
+
+
+
 ## Built with:
 <table border = "0px">
   <tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></td>
-<td><img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></td>
-<td><img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/></td>
-<td><img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /><b>Python</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><b>JavaScript</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><b>HTML5</b></td>
+<td align="center"><img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><b>CSS3</b></td>
+<td align="center"><img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/><b>Bootstrap</b></td>
+<td align="center"><img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/><b>jQuery</b></td>
+<td align="center"><img src ="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/flask/flask-original.svg" width="40" height="40"/><b>Flask</b></td>
+<td align="center"><img src ="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/mongodb/mongodb-original.svg" width="40" height="40"/><b>MongoDB</b></td>
+
+
+
     
   </tr>
 </table>
@@ -59,7 +119,7 @@ ER Diagram                 |  Application Flowchart
   
 - ### How to Run:
     **To run the application locally:**
-    - Clone [this (Simplii) github repo] (https://github.com/ivbhatt/Simplii)
+    - Clone [this (Simplii) github repo] (https://github.com/deekay2310/Simplii)
     - Run `flask run`
     - Site will be hosted at:
       `http://127.0.0.1:5000/`
@@ -68,15 +128,15 @@ ER Diagram                 |  Application Flowchart
 <center>
   <table>
     <tr>
-        <td align="center"><a href="https://github.com/apurva-s"><img src="https://avatars.githubusercontent.com/u/32777604?v=4" width="100px;" alt=""/><br /><sub><b>Apurva Sonavane</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/ArpithaVijayakumar/"><img src="https://avatars.githubusercontent.com/u/45428701?s=400&u=15851f4800b87dcd2b8cbf9ff0a040bc8987e7c0&v=4" width="100px;" alt=""/><br /><sub><b>Arpitha Vijayakumar</b></sub></a></td>
-    <td align="center"><a href="https://github.com/ivbhatt"><img src="https://avatars.githubusercontent.com/u/20361038?v=4" width="100px;" alt=""/><br /><sub><b>Ishan Bhatt</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/Krishika510"><img src="https://avatars.githubusercontent.com/u/17769434?v=4" width="100px;" alt=""/><br /><sub><b>Krishika Shivnani</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/UnnatiPrema/"><img src="https://avatars.githubusercontent.com/u/24750759?s=400&u=ab27d86edc758ff53bd68808430d8e5bf172e34a&v=4" width="100px;" alt=""/><br /><sub><b>Unnati Nadupalli</b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/deekay2310"><img src="https://avatars.githubusercontent.com/u/29257773?v=4" width="100px;" alt=""/><br /><sub><b>Dev Kumar</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/PrakruthiSomashekar"><img src="https://avatars.githubusercontent.com/u/62984587?v=4" width="100px;" alt=""/><br /><sub><b>Prakruthi Somashekar</b></sub></a></td>
+    <td align="center"><a href="https://github.com/radhikaraman20"><img src="https://avatars.githubusercontent.com/u/89432698?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Radhika Raman</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/RohanSinha96"><img src="https://avatars.githubusercontent.com/u/15325746?v=4" width="100px;" alt=""/><br /><sub><b>Rohan Sinha</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/SunidhiHegde"><img src="https://avatars.githubusercontent.com/u/62884191?v=4" width="100px;" alt=""/><br /><sub><b>Sunidhi Hegde</b></sub></a><br /></td>
     </tr>
   </table>
 </center>
 
 ## Support
-For any queries and help, please reach out to us at: krishika510@gmail.com
+For any queries and help, please reach out to us at: simplii.reminder@gmail.com
 
